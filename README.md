@@ -1,11 +1,27 @@
-<div align="center">
+# KHAN SHOP (Sunny Bakery)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A responsive, high-performance React application for **KHAN SHOP**, offering freshly baked cakes, bread, cookies, and seamless WhatsApp ordering.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Product Catalog**: Handcrafted bakery items (Chocolate Cake, Fresh Bread, Chocolate Cookies) with descriptions, pricing in BDT (৳), and high-resolution imagery.
+- **Cart Management**: Real-time order state management with item counts and total amount calculation.
+- **WhatsApp Direct Checkout**: One-click ordering that compiles customer selection into a formatted Bengali message sent directly to the bakery via WhatsApp.
+- **Responsive Navigation**: Mobile slide-out menu with full accessibility (`aria-expanded`, `aria-label`, keyboard navigation).
+- **About & Contact**: Location and direct contact information in Dhunat, Bogura.
+- **Bengali Language Support**: Native Bengali typography, content, and currency localization.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
 
-</div>
+- **React 18** + **TypeScript**
+- **Vite**
+- Custom responsive CSS with smooth scrolling and animations
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+The development server runs at `http://0.0.0.0:3000`.

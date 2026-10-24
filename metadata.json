@@ -1,0 +1,6 @@
+{
+  "name": "KHAN SHOP",
+  "description": "Your Trusted Online Shopping Partner - Top smartphones, laptops, fashion, digital products & services with bKash, Nagad & WhatsApp order in Bangladesh.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
